@@ -1,0 +1,22 @@
+{
+  "BodaMalini": {
+    "salt": "7d48a199e1230e57585479fa3b040b3b",
+    "password": "814983ef61990ebcef1d4f39fe32520cbdd77bbc549fbd9f71c569a4d419f9f0"
+  },
+  "Vydehi": {
+    "salt": "b183eb89c916ff51ec2e59692af39a2d",
+    "password": "30e02b7fd8bb723a076f349fe0fc446d24282d15b2419075f8ca98ada4936ccb"
+  },
+  "vyshnavi": {
+    "salt": "e2b45285baab80212e98e8180c22461c",
+    "password": "c01a9fbc86a5a7933f8cd978f6e12ce2e3f43745f308b3fd9a3b2bf333c1a048"
+  },
+  "malini": {
+    "salt": "29fe97034e29aba006b1ffd88a568d62",
+    "password": "ac3da5f9ff9bbc1cc2e04261987d5746016a343f09b212aefbd507d5d6b410f4"
+  },
+  "svecw@2023": {
+    "salt": "358db215a1887bd5f8e5abd16552c7ec",
+    "password": "f5b1db9085c8e3e3ff6d1abebc53bb2a79275f2cbae38d1d4254c4b86be0f09b"
+  }
+}
